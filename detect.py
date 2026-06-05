@@ -18,6 +18,8 @@ import os
 # ============================================================
 
 # Path to your trained YOLOv10 model weights
+# Download model.pt from Google Drive:
+# https://drive.google.com/file/d/1ck8w9N7nYc1acy-BjFIkbVg2YD400eW0/view?usp=drive_link
 MODEL_PATH = "model.pt"
 
 # Input source:
