@@ -65,6 +65,11 @@ Download `model.pt` from Google Drive and place it in the project folder:
 
 👉 [Download model.pt](https://drive.google.com/file/d/1ck8w9N7nYc1acy-BjFIkbVg2YD400eW0/view?usp=drive_link)
 
+### Dataset
+This project was trained on the **OD-WeaponDetection** dataset — 9,065 gun images with bounding box annotations.
+
+👉 [Download Dataset](https://github.com/ari-dasci/OD-WeaponDetection)
+
 ### Run detection
 ```bash
 python detect.py
