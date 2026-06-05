@@ -106,13 +106,7 @@ weapon-detection/
 3. Detected bounding boxes drawn with class label + confidence score
 4. Frame displayed in real-time window; press **ESC** to exit
 
----
 
-## 📸 Sample Output
-
-*(Add a screenshot of weapon detection output here)*
-
----
 
 ## 🔮 Future Work
 
