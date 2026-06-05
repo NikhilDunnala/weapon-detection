@@ -55,15 +55,17 @@ GPU recommended for training (CPU works for inference)
 
 ### Installation
 ```bash
-# Clone the repo
 git clone https://github.com/NikhilDunnala/weapon-detection.git
 cd weapon-detection
-
-# Install dependencies
-pip install ultralytics opencv-python cvzone
+pip install -r requirements.txt
 ```
 
-### Run Detection
+### Download the trained model
+Download `model.pt` from Google Drive and place it in the project folder:
+
+👉 [Download model.pt](https://drive.google.com/file/d/1ck8w9N7nYc1acy-BjFIkbVg2YD400eW0/view?usp=drive_link)
+
+### Run detection
 ```bash
 python detect.py
 ```
