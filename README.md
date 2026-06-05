@@ -124,11 +124,7 @@ weapon-detection/
 
 ---
 
-## 📜 License
 
-MIT License
-
----
 
 ## 👨‍💻 Author
 
