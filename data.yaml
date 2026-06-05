@@ -1,0 +1,16 @@
+# ============================================================
+# YOLOv10 Dataset Configuration
+# Weapon Detection System
+# ============================================================
+# Dataset: Custom gun detection dataset — 9,065 images
+# Source: https://github.com/ari-dasci/OD-WeaponDetection
+# Classes: 1 (gun)
+# ============================================================
+
+path: /content/yolov10_data   # Root dataset directory (update for your setup)
+train: ./train/images          # Training images
+val: ./valid/images            # Validation images
+test: ./test/images            # Test images
+
+nc: 1                          # Number of classes
+names: ['gun']                 # Class names
